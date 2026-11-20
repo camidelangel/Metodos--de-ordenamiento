@@ -93,7 +93,6 @@ Los dos algoritmos deben producir el siguiente resultado:
 [11, 25, 34, 47, 52, 60, 76, 83]
 ```
 
-## Conclusión
 
 La práctica permitió implementar y comprobar dos algoritmos
 de ordenamiento interno. QuickSort utiliza particiones
@@ -103,3 +102,11 @@ que se reducen progresivamente.
 Ambos algoritmos lograron ordenar correctamente el arreglo
 de prueba, permitiendo observar sus diferencias en cuanto
 a funcionamiento, complejidad y uso de memoria.
+
+## Datos
+
+Camila amor del angel cervantes 
+
+Estructura de datos 
+
+Víctor Hugo Vázquez Herrera 
